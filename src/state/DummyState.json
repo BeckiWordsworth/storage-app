@@ -1,0 +1,20 @@
+{
+	"isSavingPerson": false,
+	"isPeopleDirty": true,
+	"isFetchingPeople": false,
+	"isDeletingPerson": false,
+	"people": [
+		{
+			"boxes": 0,
+			"chairs": 0,
+			"computers": 1,
+			"desks": 1,
+			"id": 1,
+			"leave_date": "2020-01-31T00:00:00.000Z",
+			"monitors": 1,
+			"name": "John Snow",
+			"return_date": "2020-03-31T00:00:00.000Z",
+			"_id": "5e24d1b3688c775700050752"
+		}
+	]
+}
